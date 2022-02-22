@@ -1,0 +1,64 @@
+.alumno{
+    text-align:right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{  
+    color: rgb(73, 150, 201);
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color:palevioletred;
+}
+.parr2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+
+}
+.parr3{
+    text-align:right;
+}
+.item{
+    color: #a82222;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border: 1px solid #000000;
+    margin-top: 1%;
+    float:right;
+    text-align: justify;
+    margin-left: 1%;
+}
+
+.texto-cafe{
+    color: rgb(117, 84, 11);
+}
+.texto-amarillo{
+    color: rgb(250, 246, 0);
+}
+.texto-negro{
+    color: rgb(0, 0, 0);
+}
+.texto-azul{
+    color: rgb(13, 59, 146);
+}
+.texto-verde{
+    color: rgb(21, 185, 49);
+}
+.texto-rojo{
+    color: rgb(228, 5, 5);
+}
+.texto-rosa{
+    color: rgb(170, 16, 106);
+}
+.texto-morado{
+    color: rgb(148, 19, 160); 
+}
+.textodecolores{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    margin: -0.7%;
+}
+body { height: 842px; width: 595px;
+     margin-left: auto; 
+     margin-right: auto; 
+    }
