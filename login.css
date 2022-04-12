@@ -1,0 +1,18 @@
+body{
+    background: #000000;
+    background: linear-gradient(to right, #3a2b28, #e41717);
+}
+
+.bg{
+    background-image :  url(img.jpg); ;
+    background-position: cneter center;
+    
+}
+.btn-primary{
+    color: #ffffff;
+    background-color: black;
+}
+.nav-letras{
+    color:black;
+    text-align: right;
+}
